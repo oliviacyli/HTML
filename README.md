@@ -1,2 +1,2 @@
-# HTML
-HTML Mini Projects
+# HTML & CSS
+HTML & CSS Mini Projects
